@@ -1,0 +1,31 @@
+h1 {
+    background-color: rgb(187, 175, 6);
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(212, 199, 11);
+    color: white;
+}
+
+.text {
+    font-size: 18px;
+    font-family: Georgia, Garamond, "Times New Roman", serif;
+}
+
+.credit {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: serif;
+}
+
+.portrait-img {
+    height: 500px;
+    width: auto;
+}
+
+.landscape-img {
+    height: auto;
+    width: 500px;
+}
