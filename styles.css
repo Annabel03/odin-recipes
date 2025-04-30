@@ -2,11 +2,19 @@ h1 {
     background-color: rgb(187, 175, 6);
     color: white;
     text-align: center;
+    padding: 20px;
 }
 
 h2 {
     background-color: rgb(212, 199, 11);
     color: white;
+    padding: 15px;
+}
+
+.ingredients {
+    display: inline-block;
+    background-color: rgb(212, 199, 11);
+    padding: 20px;
 }
 
 .text {
